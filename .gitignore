@@ -1,0 +1,25 @@
+# VMware
+VMware/
+*.vmdk
+*.vmem
+*.vmsn
+*.nvram
+*.vmss
+*.lck
+
+# ISOs
+ISOs/
+*.iso
+
+# Backups
+Backups/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
